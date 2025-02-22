@@ -1,0 +1,2 @@
+# djstore
+djstore_project
